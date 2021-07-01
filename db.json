@@ -1,9 +1,43 @@
 {
- "reports" : [
-     {
-         "heja" : "dsdsds",
-         "id" : "1"
-        
+  "users": [
+    {
+      "email": "karo.franczuk@gmail.com",
+      "password": "$2a$10$jJDEPh7fWkWMm73hHjlTuev3zvnbzjOou.OB/Ya4HqOXv..1ykZOq",
+      "name": "Karolina",
+      "surmane": "Franczuk",
+      "position": "Developer",
+      "grade": "B (Mid)",
+      "team": "BPM",
+      "location": "Warsaw",
+      "id": 1
+    },
+    {
+      "email": "test@example.com",
+      "password": "$2a$10$JXwdTiXk7.d383bVEvzfjO0n99zPNcWNMGkBeNriG3S6i0Gewx0Gy",
+      "name": "Miłosz",
+      "surmane": "Testowy",
+      "position": ".NET Developer",
+      "grade": "B (Mid)",
+      "team": "PWC",
+      "location": "Warsaw",
+      "id": 2
+    },
+    {
+      "email": "recruiter@example.com",
+      "password": "$2a$10$aJBgRqgVWUijpJTtRgbOT.YO7UOeVa2kvPOtfSTpmzBSbVkFoMFfG",
+      "name": "Recruiter",
+      "surmane": "Testowy",
+      "position": "HR Specialist",
+      "grade": "B",
+      "team": "HR Department",
+      "location": "Warsaw",
+      "id": 3
     }
- ]   
+  ],
+  "reports": [
+    {
+      "heja": "dsdsds",
+      "id": "1"
+    }
+  ]
 }
